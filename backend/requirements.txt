@@ -1,4 +1,0 @@
-Flask
-Flask-CORS
-pdfplumber
-python-docx
